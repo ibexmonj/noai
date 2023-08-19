@@ -17,6 +17,7 @@ Gone are the days of AI-powered social media posts and automated compliments. Sa
 💡🔦 Let Your Light Bulb Shine:
 Why have AI write your next novel, compose your song, or paint your masterpiece when you can channel your inner creative genius? We believe that the best ideas come from your own noggin, not from an algorithm. Who needs an AI Shakespeare when you can be the bard of your own destiny?
 
+## Contribution
 👨‍💻💬 Contribute Your Code, Not Just Data:
 Join us in celebrating the power of human-written code. In the No AI repo, we're all about embracing the quirks and imperfections that make software development an art. No more letting AI dictate our coding standards – it's time for us humans to rule the digital realm!
 
