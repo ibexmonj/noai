@@ -1,4 +1,4 @@
-# No AI
+# No A.I.
 The model and data you need to train is in your noggin.
 
 ## Summary
